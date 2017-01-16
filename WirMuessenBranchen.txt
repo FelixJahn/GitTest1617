@@ -1,2 +1,6 @@
 branchtest 
+<<<<<<< HEAD
 lol hahahahhaaha xdxd 
+=======
+herecomedatboi 
+>>>>>>> bf3fd52adc853de113661d74cf7a77d8aea34128
